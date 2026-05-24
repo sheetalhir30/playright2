@@ -1,0 +1,34 @@
+console.log("Hello The Testing Academy");
+let x = 10;
+console.log("Hello the testing academy");
+//let x=5;
+console.log(x);
+
+let number =5;
+if(number %2 === 0)
+{
+    console.log("Number is even");
+}
+else
+{
+    console.log("Number is odd");
+}
+
+let year =2026
+if(year%4==0 && year%100!==0)
+
+    {
+        console.log("It is a leap year")
+    }
+    else if(year%400 ==0)
+    {
+console.log("It is a leap year")
+    }
+    else{ console.log("It is not leap year")}
+
+    let grade= 79
+    switch(grade)
+    {
+        case 
+
+    }
