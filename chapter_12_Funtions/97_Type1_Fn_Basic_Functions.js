@@ -9,3 +9,10 @@ greet(); // calling argument
 
 let a = greet();
 console.log(a);
+//type1 function 
+function greet()
+{
+    console.log("Hi");
+
+}
+greet();

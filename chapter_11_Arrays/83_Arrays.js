@@ -11,3 +11,6 @@ console.log(arr[4]); // undefined
 
 let testResults = ["pass", "fail", "pass", "skip"];
 let mixed = [1, "hello", true, null]; // JS arrays can hold any type.
+
+let fruits =[];
+let vegetables =["ca"]
